@@ -55,7 +55,7 @@ input[type='checkbox'] {
 }
 
 input[type="text"],
-input[type="number"],
+input[type="number"],input[type="email"],
 #dropdown,
 textarea {
     width: 100%;
